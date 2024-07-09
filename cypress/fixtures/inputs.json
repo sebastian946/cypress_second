@@ -1,0 +1,16 @@
+{
+    "data_success":{
+      "firstname": "Juan Esteban",
+      "surname": "Alvarez Castaño",
+      "age": 19,
+      "country": "Colombia",
+      "notes": "Esta es una nota de prueba"
+    },
+    "data_invalid":{
+      "firstname": "Juan Esteban",
+      "surname": 123456,
+      "age": 12,
+      "country": "Colombia",
+      "notes": "Esta es una nota de prueba"
+    }
+}
